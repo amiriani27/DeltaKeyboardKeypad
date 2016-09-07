@@ -1,0 +1,26 @@
+E:\Projects\Improvement Projects\Keyboards\Keyboards\obj\x86\Debug\Keyboards.DeltaKeyboard.resources
+E:\Projects\Improvement Projects\Keyboards\Keyboards\obj\x86\Debug\Keyboards.DeltaNumberPad.resources
+E:\Projects\Improvement Projects\Keyboards\Keyboards\obj\x86\Debug\Keyboards.frmMain.resources
+E:\Projects\Improvement Projects\Keyboards\Keyboards\obj\x86\Debug\Keyboards.Resources.resources
+E:\Projects\Improvement Projects\Keyboards\Keyboards\obj\x86\Debug\Keyboards.vbproj.GenerateResource.Cache
+E:\Projects\Improvement Projects\Keyboards\Keyboards\bin\Debug\Keyboards.exe.config
+E:\Projects\Improvement Projects\Keyboards\Keyboards\bin\Debug\Keyboards.exe
+E:\Projects\Improvement Projects\Keyboards\Keyboards\bin\Debug\Keyboards.pdb
+E:\Projects\Improvement Projects\Keyboards\Keyboards\bin\Debug\Keyboards.xml
+E:\Projects\Improvement Projects\Keyboards\Keyboards\obj\x86\Debug\Keyboards.exe
+E:\Projects\Improvement Projects\Keyboards\Keyboards\obj\x86\Debug\Keyboards.xml
+E:\Projects\Improvement Projects\Keyboards\Keyboards\obj\x86\Debug\Keyboards.pdb
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\bin\Debug\Keyboards.exe.config
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\obj\x86\Debug\Keyboards.exe
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\obj\x86\Debug\Keyboards.xml
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\obj\x86\Debug\Keyboards.pdb
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\obj\x86\Debug\Keyboards.DeltaKeyboard.resources
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\obj\x86\Debug\Keyboards.frmMain.resources
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\obj\x86\Debug\Keyboards.Resources.resources
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\obj\x86\Debug\Keyboards.vbproj.GenerateResource.Cache
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\bin\Debug\Keyboards.exe
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\bin\Debug\Keyboards.pdb
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\bin\Debug\Keyboards.xml
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\obj\x86\Debug\Keyboards.ucKeyPad.resources
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\obj\x86\Debug\Keyboards.ucMultiStateIndicator.resources
+C:\Users\miriaa1\Downloads\Delta\Keyboards\Keyboards\Keyboards\obj\x86\Debug\Keyboards.ucDeltaNumberPad.resources
